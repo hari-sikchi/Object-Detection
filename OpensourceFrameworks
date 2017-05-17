@@ -1,0 +1,17 @@
+Object Detection[2D+3D]
+
+https://github.com/pedropro/object_recognition_demo
+
+http://dss.cs.princeton.edu/   (https://github.com/shurans/DeepSlidingShape)
+
+https://github.com/s-gupta/fast-rcnn/tree/distillation (Supervision transfer)
+
+
+
+Object Segmentation
+
+http://mi.eng.cam.ac.uk/projects/segnet/   [Very good for semantic segmentation]
+
+https://github.com/felixgwu/mask_rcnn_pytorch [Very good for instance segmentation] 
+
+https://github.com/daijifeng001/MNC [Instance aware segmentation microsoft]
